@@ -311,4 +311,4 @@ if (msg.content === 'd.monika')
 }
 });
 
-client.login('NDI1MjQxMDc2MTgyMjg2MzM2.DZEkOQ.PX84eGiH0kyx4oukgEY0JJJHkYQ');
+client.login('TOKEN');
