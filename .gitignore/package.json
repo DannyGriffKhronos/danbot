@@ -1,0 +1,11 @@
+{
+  "name": "danbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Griff",
+  "license": "ISC",
+  "description": ""
+}
